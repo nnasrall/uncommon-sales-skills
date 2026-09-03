@@ -1,0 +1,161 @@
+{
+  "name": "uncommon-sales-skills",
+  "description": "Uncommon Sales Skills \u2014 10 Claude skills that run enterprise sales plays the way top reps actually sell: in the buyer's own language, sourced from your live deal data, ending in a forwardable asset.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Nate Nasralla",
+    "url": "https://www.fluint.io"
+  },
+  "plugins": [
+    {
+      "name": "account-planning",
+      "displayName": "Account Planning",
+      "source": "./plugins/account-planning",
+      "description": "Build a point of view and a strategic account plan for a target account, or find and rank expansion opportunities inside an existing one.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "account-planning",
+        "pov",
+        "expansion",
+        "whitespace"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "call-prep",
+      "displayName": "Call Prep",
+      "source": "./plugins/call-prep",
+      "description": "Prep for an upcoming sales call, discovery call, or demo so you walk in with a point of view, not a list of questions.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "discovery",
+        "call-prep",
+        "meeting-brief",
+        "pre-demo"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "call-follow-up",
+      "displayName": "Call Follow Up",
+      "source": "./plugins/call-follow-up",
+      "description": "Turn a call or group demo into the follow-up that actually moves the deal.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "follow-up",
+        "discovery",
+        "stakeholder-mapping",
+        "email"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "champion-enablement",
+      "displayName": "Champion Enablement",
+      "source": "./plugins/champion-enablement",
+      "description": "Build the internal-selling kit your champion needs for the meetings you will not be in.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "champion",
+        "consensus",
+        "objections",
+        "internal-selling"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "competitive-displacement",
+      "displayName": "Competitive Displacement",
+      "source": "./plugins/competitive-displacement",
+      "description": "Build the narrative and the plan to unseat an incumbent or beat a competitor in a live deal.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "competitive",
+        "displacement",
+        "differentiation",
+        "incumbent"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "deal-advancement",
+      "displayName": "Deal Advancement",
+      "source": "./plugins/deal-advancement",
+      "description": "Diagnose why a deal is stuck and get it moving, or build a mutual action plan to drive it to close.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "stuck-deals",
+        "mutual-action-plan",
+        "momentum",
+        "mid-funnel"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "manage-up",
+      "displayName": "Manage Up",
+      "source": "./plugins/manage-up",
+      "description": "Prep an AE to manage up to sales leadership: forecast calls, pipeline reviews, 1:1s, and deal reviews that surface territory and quarter risk clearly and ask leadership for the backing to act on it.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "forecast",
+        "deal-review",
+        "managing-up",
+        "pipeline"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "multithread",
+      "displayName": "Multithread",
+      "source": "./plugins/multithread",
+      "description": "Map the real buying committee on an account or deal and get multithreaded across it.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "multithreading",
+        "buying-committee",
+        "stakeholders",
+        "outreach"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "qbr-prep",
+      "displayName": "Qbr Prep",
+      "source": "./plugins/qbr-prep",
+      "description": "Prep a quarterly business review with a customer: surface the value delivered, the risks, and the expansion openings, then build the agenda.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "qbr",
+        "account-management",
+        "expansion",
+        "retention"
+      ],
+      "defaultEnabled": true
+    },
+    {
+      "name": "one-page-business-case",
+      "displayName": "One Page Business Case",
+      "source": "./plugins/one-page-business-case",
+      "description": "Build a customer-specific 1-Page Business Case for a live sales deal.",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": [
+        "business-case",
+        "mid-funnel",
+        "exec-summary",
+        "scoring"
+      ],
+      "defaultEnabled": true
+    }
+  ]
+}

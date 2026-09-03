@@ -1,0 +1,15 @@
+{
+  "name": "deal-advancement",
+  "displayName": "Deal Advancement",
+  "version": "1.0.0",
+  "description": "Diagnose why a deal is stuck and get it moving, or build a mutual action plan to drive it to close.",
+  "author": {
+    "name": "Nate Nasralla"
+  },
+  "keywords": [
+    "stuck-deals",
+    "mutual-action-plan",
+    "momentum",
+    "mid-funnel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "account-planning",
+  "displayName": "Account Planning",
+  "version": "1.0.0",
+  "description": "Build a point of view and a strategic account plan for a target account, or find and rank expansion opportunities inside an existing one.",
+  "author": {
+    "name": "Nate Nasralla"
+  },
+  "keywords": [
+    "account-planning",
+    "pov",
+    "expansion",
+    "whitespace"
+  ]
+}

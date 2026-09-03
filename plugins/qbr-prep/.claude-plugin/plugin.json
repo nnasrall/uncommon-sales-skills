@@ -1,0 +1,15 @@
+{
+  "name": "qbr-prep",
+  "displayName": "Qbr Prep",
+  "version": "1.0.0",
+  "description": "Prep a quarterly business review with a customer: surface the value delivered, the risks, and the expansion openings, then build the agenda.",
+  "author": {
+    "name": "Nate Nasralla"
+  },
+  "keywords": [
+    "qbr",
+    "account-management",
+    "expansion",
+    "retention"
+  ]
+}

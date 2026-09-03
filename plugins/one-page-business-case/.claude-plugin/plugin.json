@@ -1,0 +1,15 @@
+{
+  "name": "one-page-business-case",
+  "displayName": "One Page Business Case",
+  "version": "1.0.0",
+  "description": "Build a customer-specific 1-Page Business Case for a live sales deal.",
+  "author": {
+    "name": "Nate Nasralla"
+  },
+  "keywords": [
+    "business-case",
+    "mid-funnel",
+    "exec-summary",
+    "scoring"
+  ]
+}

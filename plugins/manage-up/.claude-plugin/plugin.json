@@ -1,0 +1,15 @@
+{
+  "name": "manage-up",
+  "displayName": "Manage Up",
+  "version": "1.0.0",
+  "description": "Prep an AE to manage up to sales leadership: forecast calls, pipeline reviews, 1:1s, and deal reviews that surface territory and quarter risk clearly and ask leadership for the backing to act on it.",
+  "author": {
+    "name": "Nate Nasralla"
+  },
+  "keywords": [
+    "forecast",
+    "deal-review",
+    "managing-up",
+    "pipeline"
+  ]
+}

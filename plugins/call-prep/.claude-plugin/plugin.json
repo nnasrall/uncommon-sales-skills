@@ -1,0 +1,15 @@
+{
+  "name": "call-prep",
+  "displayName": "Call Prep",
+  "version": "1.0.0",
+  "description": "Prep for an upcoming sales call, discovery call, or demo so you walk in with a point of view, not a list of questions.",
+  "author": {
+    "name": "Nate Nasralla"
+  },
+  "keywords": [
+    "discovery",
+    "call-prep",
+    "meeting-brief",
+    "pre-demo"
+  ]
+}

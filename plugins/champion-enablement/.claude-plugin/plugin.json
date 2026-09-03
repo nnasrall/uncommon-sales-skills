@@ -1,0 +1,15 @@
+{
+  "name": "champion-enablement",
+  "displayName": "Champion Enablement",
+  "version": "1.0.0",
+  "description": "Build the internal-selling kit your champion needs for the meetings you will not be in.",
+  "author": {
+    "name": "Nate Nasralla"
+  },
+  "keywords": [
+    "champion",
+    "consensus",
+    "objections",
+    "internal-selling"
+  ]
+}
