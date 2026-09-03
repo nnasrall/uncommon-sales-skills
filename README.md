@@ -1,26 +1,24 @@
 # Uncommon Sales Skills
 
-**Ten Claude skills that run enterprise sales plays the way top reps actually sell.**
+**Ten Claude skills that run enterprise-level sales plays the way top reps _actually_ win.**
 
-Not generic "write me a follow-up email" prompts. These skills encode the specific moves that separate reps who close complex deals from reps who get stuck: selling in the buyer's own language, arming a champion for the meetings you are not in, and turning every deal artifact into something forwardable. They pull from your live deal data, apply a real methodology, and every one of them ends in an asset you can send.
+Your favorite LLMs trained on the market average inputs, which creates generic outputs. These skills encode the specific, hard-earned wisdom that separates reps who close complex deals from reps who get stuck: selling in the buyer's own language, selling during the meetings you're not in the room for, and crafting forwardable, sticky messages. They'll pull from your live deal data, and give you tactical assets for each eal.
 
 Built by [Nate Nasralla](https://www.fluint.io), author of *Selling With* and *Brief & Brilliant*, on the frameworks from both books.
 
 ---
 
-## Why this is uncommon
+## What to expect from the library of _uncommon_ skills
 
-Most AI sales prompts produce competent, generic output: a clean summary anyone could have written, in vendor voice, that a buyer forwards to no one. These skills are built to do the opposite.
+- **They sell with the buyer's language, not yours.** These skills mine your call transcripts and emails for the exact words the buyer used, override the LLMs default tendencies, and write in a way that makes it easy for champions to forward your message. Which makes all the difference.
 
-- **They sell in the buyer's language, not yours.** The rule throughout is camouflage, not a billboard. The skills mine your call transcripts and emails for the exact words the buyer used, and write with those. A champion forwards a message that sounds like it came from inside their own company, not from a vendor's marketing team.
+- **They're built on what's _not_ in training data.** Every skill is anchored to a specific framework tested by 1,000's of sellers and built into *Selling With* and *Brief & Brilliant*.
 
-- **They run a real methodology.** Every skill is anchored to a named framework from *Selling With* and *Brief & Brilliant*: the Problem/Process/Payoff discovery roadmap, the 3 I's of a champion, the 4-sentence SoundBite, the one-page business case, math-problem-versus-drama, the mutual action plan as a training plan. This is a system top reps use, not a bag of tips.
+- **A single system, built with judgment.** Each skill builds on top of the others to create a single, end-to-end system that mirrors what a seasoned seller has: judgment. The ability to weave together multiple skillsets into a single deal.
 
-- **They find the judgment the data hides.** Each skill ends in an operator's read: the one thing an experienced seller would notice that a summary does not show. The stakeholder who matters more than their title. The deal that is not what it looks like. The decider who was not in the room. That is the difference between a report and a read.
+- **Every skill builds in a tangible asset.** Not analysis you still have to figure out how act on. A a forwardable follow-up, a champion toolkit, a leadership brief, etc... You finish with the thing, ready to ship.
 
-- **Every skill ends in a deliverable.** Not analysis you still have to act on. A Meeting Brief, a forwardable follow-up, a champion kit, a displacement plan, a mutual action plan, a leadership review. You finish with the thing, ready to send.
-
-- **They run on your real data.** The skills pull deal context from [Fluint](https://www.fluint.io) first, and fall back to whatever you have connected: your CRM, your call recorder, your email. When a fact is missing, they flag it and tell you the single question to ask next, rather than inventing a number.
+- **They run on your real data.** The skills pull deal context from Fluint if you use it, or, it falls back to whatever you have connected: your CRM, call recorder, email, etc.. When a fact is missing, they flag it and tell you what to do next.
 
 ---
 
@@ -28,7 +26,7 @@ Most AI sales prompts produce competent, generic output: a clean summary anyone 
 
 | Skill | What it does |
 |-------|--------------|
-| **multithread** | Map the real buying committee on a new account or a single-threaded deal, then draft the outreach to widen it. |
+| **multithread** | Map the buying committee on a new account or a single-threaded deal, then draft the outreach to widen it. |
 | **account-planning** | Build a POV and a strategic account plan, or find and rank expansion whitespace in an existing account. |
 | **call-prep** | Walk into a call with a Meeting Brief: a point of view, planned discovery, an opening frame, and the ask. |
 | **call-follow-up** | Turn a call or demo into a stakeholder map, a confirmed problem in the buyer's words, and forwardable per-person follow-ups. |
@@ -43,7 +41,7 @@ Most AI sales prompts produce competent, generic output: a clean summary anyone 
 
 ## Install
 
-You install this as a Claude plugin marketplace. Installing requires a paid Claude plan (Pro, Max, Team, or Enterprise).
+You can install this as a Claude plugin marketplace. Installing requires a paid Claude plan (Pro, Max, Team, or Enterprise).
 
 1. In Claude, open **Customize → Plugins** (or **Settings → Capabilities → Plugins**).
 2. **Add marketplace** and paste this repository:
@@ -95,8 +93,6 @@ These skills are the productized version of the system in two books:
 
 - ***Selling With*** — the art of selling with champions to shape the internal buying conversations that decide enterprise deals.
 - ***Brief & Brilliant*** — how to simplify complex deals and sell through the noise, in the buyer's own language.
-
-Learn more at [fluint.io](https://www.fluint.io).
 
 ---
 
