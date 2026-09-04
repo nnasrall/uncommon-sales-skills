@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multithread"
+  short_description: "Map the buying committee and widen the deal"
+  default_prompt: "Use $multithread to map the buying committee and get more people into the deal."

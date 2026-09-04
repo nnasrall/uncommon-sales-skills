@@ -1,0 +1,4 @@
+interface:
+  display_name: "Call Follow-Up"
+  short_description: "Turn a call into forwardable follow-ups"
+  default_prompt: "Use $call-follow-up to draft per-stakeholder follow-ups after a call."

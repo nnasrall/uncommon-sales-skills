@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Plays"
+  short_description: "Find the right play for your deal"
+  default_prompt: "Use $sales-plays when you're not sure which play you need."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "One-Page Business Case"
+  short_description: "Build and score the executive business case"
+  default_prompt: "Use $one-page-business-case to build a scored one-page business case."

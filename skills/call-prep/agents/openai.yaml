@@ -1,0 +1,4 @@
+interface:
+  display_name: "Call Prep"
+  short_description: "Walk into a call with a meeting brief"
+  default_prompt: "Use $call-prep to build a meeting brief for an upcoming call or demo."

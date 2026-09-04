@@ -1,0 +1,4 @@
+interface:
+  display_name: "QBR Prep"
+  short_description: "Prep a customer quarterly review"
+  default_prompt: "Use $qbr-prep to build a QBR pack that leads with their success."

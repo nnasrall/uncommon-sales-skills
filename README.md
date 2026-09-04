@@ -22,10 +22,13 @@ Built by [Nate Nasralla](https://www.fluint.io), author of *Selling With* and *B
 
 ---
 
-## The ten skills
+## The plays
+
+Not sure which one you need? Start with **sales-plays**, the front door. Describe your deal and it routes you to the right play.
 
 | Skill | What it does |
 |-------|--------------|
+| **sales-plays** | The front door. Describe a deal situation and it names the moment and routes you to the right play below. |
 | **multithread** | Map the buying committee on a new account or a single-threaded deal, then draft the outreach to widen it. |
 | **account-planning** | Build a POV and a strategic account plan, or find and rank expansion whitespace in an existing account. |
 | **call-prep** | Walk into a call with a Meeting Brief: a point of view, planned discovery, an opening frame, and the ask. |
@@ -41,16 +44,27 @@ Built by [Nate Nasralla](https://www.fluint.io), author of *Selling With* and *B
 
 ## Install
 
-You can install this as a Claude plugin marketplace. Installing requires a paid Claude plan (Pro, Max, Team, or Enterprise).
+This is one plugin containing all the skills. Install it once and you get the whole toolbox, and each skill still triggers on its own when the moment fits. It runs on both Claude and ChatGPT.
 
-1. In Claude, open **Customize → Plugins** (or **Settings → Capabilities → Plugins**).
+### Claude (Pro, Max, Team, or Enterprise)
+
+1. Open **Customize → Plugins** (or **Settings → Capabilities → Plugins**).
 2. **Add marketplace** and paste this repository:
    ```
    nnasrall/uncommon-sales-skills
    ```
-3. Install the skills you want, or all ten. Turn on **Sync automatically** and installs update themselves when the repo changes.
+3. Install the **Uncommon Sales Skills** plugin. Turn on **Sync automatically** and it updates itself when the repo changes.
 
-Prefer a single skill for your own testing? Each skill is also a standalone `.skill` file you can upload under **Settings → Capabilities → Upload skill**.
+### ChatGPT / Codex (workspace admin)
+
+1. In **Admin → Plugins**, choose **Add → Import marketplace**.
+2. Enter the repository URL as the source:
+   ```
+   https://github.com/nnasrall/uncommon-sales-skills
+   ```
+3. Authorize GitHub access and set the install policy. New marketplaces sync automatically.
+
+The repo ships both a Claude manifest (`.claude-plugin/`) and a Codex manifest (`.codex-plugin/`) over one shared `skills/` folder, so a single source powers both platforms.
 
 ---
 

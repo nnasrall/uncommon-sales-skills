@@ -1,0 +1,23 @@
+{
+  "name": "uncommon-sales-skills",
+  "version": "1.0.0",
+  "description": "Ten sales-play skills that run enterprise deals the way top reps sell: in the buyer's own language, sourced from your live deal data, ending in a forwardable asset. Built on the Selling With and Brief & Brilliant frameworks.",
+  "author": {
+    "name": "Nate Nasralla",
+    "url": "https://www.fluint.io"
+  },
+  "keywords": [
+    "sales",
+    "enterprise-selling",
+    "gtm",
+    "champions",
+    "business-case",
+    "discovery",
+    "multithreading",
+    "account-planning",
+    "forecast",
+    "fluint"
+  ],
+  "repository": "https://github.com/nnasrall/uncommon-sales-skills",
+  "license": "MIT"
+}

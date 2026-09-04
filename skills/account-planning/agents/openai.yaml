@@ -1,0 +1,4 @@
+interface:
+  display_name: "Account Planning"
+  short_description: "Build a POV and account plan, or find expansion"
+  default_prompt: "Use $account-planning to build a POV and strategic account plan."

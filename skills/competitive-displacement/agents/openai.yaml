@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitive Displacement"
+  short_description: "Unseat an incumbent without a feature war"
+  default_prompt: "Use $competitive-displacement to build a plan to unseat the incumbent."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deal Advancement"
+  short_description: "Unstick a stalled deal or build a MAP"
+  default_prompt: "Use $deal-advancement to diagnose a stuck deal or build a mutual action plan."

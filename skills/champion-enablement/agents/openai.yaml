@@ -1,0 +1,4 @@
+interface:
+  display_name: "Champion Enablement"
+  short_description: "Arm your champion to sell internally"
+  default_prompt: "Use $champion-enablement to build your champion's internal-selling kit."

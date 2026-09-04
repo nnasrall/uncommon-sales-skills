@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Up"
+  short_description: "Prep a forecast or deal review with leadership"
+  default_prompt: "Use $manage-up to prep a forecast call and ask leadership for backing."
