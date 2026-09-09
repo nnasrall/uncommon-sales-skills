@@ -1,8 +1,8 @@
 # Uncommon Sales Skills
 
-**Ten Claude skills that run enterprise-level sales plays the way top reps _actually_ win.**
+**Ten skills that run enterprise-level sales plays the way top reps _actually_ win.**
 
-Your favorite LLMs trained on the market average inputs, which creates generic outputs. These skills encode the specific, hard-earned wisdom that separates reps who close complex deals from reps who get stuck: selling in the buyer's own language, selling during the meetings you're not in the room for, and crafting forwardable, sticky messages. They'll pull from your live deal data, and give you tactical assets for each eal.
+Your favorite LLMs are trained with market average inputs, which creates generic outputs. These skills encode the specific, hard-earned wisdom that separates reps who close complex deals from reps who get stuck: selling in the buyer's own language, selling during the meetings you're not in the room for, and crafting forwardable, sticky messages. They'll pull from your live deal data, and give you tactical assets for each eal.
 
 Built by [Nate Nasralla](https://www.fluint.io), author of *Selling With* and *Brief & Brilliant*, on the frameworks from both books.
 
