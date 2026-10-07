@@ -40,7 +40,7 @@ the account, the deal (if one exists), and any prior meetings with these people.
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. Pull in
 parallel from whatever is connected:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the record, stage, contacts, notes.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = their words.
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = their words.
 - Email (Superhuman, Gmail, Outlook) = stated priorities, timing, who is cc'd.
 
 Confirm the basics before building: who you are meeting (name, role), the account, the

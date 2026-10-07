@@ -17,7 +17,7 @@ No Fluint? The skill detects whatever is connected and pulls from all of it in p
 | Source | Tools it recognizes | What it provides |
 |--------|---------------------|------------------|
 | CRM | HubSpot, Salesforce, Attio, Pipedrive | The record, stage, amount, close date, contacts, notes |
-| Call transcripts | Gong, Chorus, Fathom, Fireflies | The buyer's actual words, the richest source of their language |
+| Call transcripts | Salesloft, Gong, Clari, Chorus, Fathom, Fireflies | The buyer's actual words, the richest source of their language |
 | Email | Gmail, Outlook, Superhuman | Stated priorities, timing, who is cc'd, procurement signals |
 
 ### 3. Work from what you paste

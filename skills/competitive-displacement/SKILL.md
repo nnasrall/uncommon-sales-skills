@@ -39,7 +39,7 @@ fuses CRM, calls, and emails, so start there.
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the deal, the named competitor, notes.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = what the buyer
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = what the buyer
   has said about their current solution and its frustrations.
 - Email (Superhuman, Gmail, Outlook) = recent signals.
 

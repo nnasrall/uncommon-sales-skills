@@ -38,7 +38,7 @@ already fuses CRM, calls, and emails, so start there.
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = account record, contacts, current footprint.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = stated priorities.
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = stated priorities.
 - Email (Superhuman, Gmail, Outlook) = the working relationship and recent signals.
 - Public research = leadership changes, launches, earnings language, hiring.
 

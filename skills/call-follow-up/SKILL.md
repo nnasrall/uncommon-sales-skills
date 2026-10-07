@@ -37,7 +37,7 @@ who was in the room and for whoever they forward it to next.
 belongs to. Fluint already fuses the call, CRM, and email context, so start there.
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. Pull in parallel:
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = the source of truth for who said what.
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = the source of truth for who said what.
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the deal, stage, contacts.
 - Email (Superhuman, Gmail, Outlook) = the thread this call sits in.
 

@@ -63,7 +63,7 @@ Pull from three sources in parallel where possible:
    Salesforce, Attio, Pipedrive. Read every note and logged activity; the gold is
    usually buried there.
 2. **Call transcripts**: every recorded discovery, demo, or exec call tied to this
-   account. Common tools: Gong, Chorus, Fathom, Fireflies, Otter. These are the
+   account. Common tools: Salesloft, Gong, Clari, Chorus, Fathom, Fireflies, Otter. These are the
    single richest source of the customer's *actual language*: the exact phrases
    they use for their problem, their metrics, their internal initiatives.
 3. **Emails**: threads with anyone at the account. Common tools: Gmail, Outlook,

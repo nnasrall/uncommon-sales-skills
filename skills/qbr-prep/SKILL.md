@@ -39,7 +39,7 @@ already fuses CRM, calls, and emails, so start there.
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the account, the original goals, usage, history.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = recent sentiment.
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = recent sentiment.
 - Email (Superhuman, Gmail, Outlook) = engagement level and any friction signals.
 - Product usage data, if available = adoption, and the expansion signals inside it.
 

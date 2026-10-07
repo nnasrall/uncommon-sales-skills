@@ -36,7 +36,7 @@ calls, and emails, so it is the fastest way to see where the deal actually is.
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = stage, close date, last activity.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = the last real
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = the last real
   exchanges and where momentum dropped.
 - Email (Superhuman, Gmail, Outlook) = the thread and the silence.
 

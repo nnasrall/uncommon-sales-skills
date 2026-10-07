@@ -42,7 +42,7 @@ fuses CRM, calls, and emails, so it is the fastest way to see who is already in 
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = existing contacts, roles, deal history.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = who has been
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = who has been
   named or mentioned on calls.
 - Email (Superhuman, Gmail, Outlook) = who is cc'd, who forwards to whom.
 

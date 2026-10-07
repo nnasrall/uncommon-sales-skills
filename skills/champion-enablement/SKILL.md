@@ -40,7 +40,7 @@ emails, so start there.
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = deal, stage, contact roles.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = who said what.
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = who said what.
 - Email (Superhuman, Gmail, Outlook) = the working relationship and who is cc'd.
 
 Then qualify your champion against the 3 I's (`references/frameworks.md`): Incentive,

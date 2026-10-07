@@ -44,7 +44,7 @@ moving.
 
 **No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the pipeline, stages, amounts, close dates.
-- Call transcripts (Gong, Chorus, Fathom, Fireflies; or via Clay / Deepline) = whether the
+- Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = whether the
   buyer's behavior matches the stage the deal is sitting in.
 - Email (Superhuman, Gmail, Outlook) = recent signals of momentum or silence.
 

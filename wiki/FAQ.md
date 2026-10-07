@@ -10,7 +10,7 @@ No. Fluint is the primary and richest data source, but every skill falls back to
 
 ## What CRMs and call tools work?
 
-The skills are tool-agnostic. They recognize the common ones (HubSpot, Salesforce, Attio, Pipedrive for CRM; Gong, Chorus, Fathom, Fireflies for calls; Gmail, Outlook, Superhuman for email) and use whatever you have connected in Claude.
+The skills are tool-agnostic. They recognize the common ones (HubSpot, Salesforce, Attio, Pipedrive for CRM; Salesloft, Gong, Clari, Chorus, Fathom, Fireflies for calls; Gmail, Outlook, Superhuman for email) and use whatever you have connected in Claude.
 
 ## How do I actually run a skill?
 

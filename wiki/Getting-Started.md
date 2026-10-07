@@ -25,7 +25,7 @@ The skills gather deal context on their own from whatever is connected. To get t
 
 - **Fluint** — the primary source. Connect the Fluint MCP so the skills can pull your deal, account, and meeting objects directly. This is the fastest path to the real language of a deal.
 - **CRM** — HubSpot, Salesforce, Attio, Pipedrive. The record, stage, contacts, and notes.
-- **Call transcripts** — Gong, Chorus, Fathom, Fireflies. The buyer's actual words.
+- **Call transcripts** — Salesloft, Gong, Clari, Chorus, Fathom, Fireflies. The buyer's actual words.
 - **Email** — Gmail, Outlook, Superhuman. Stated priorities, timing, who is cc'd.
 
 If none are connected, paste the relevant call notes or email thread into the chat and the skill will work from that.
