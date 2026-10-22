@@ -7,7 +7,7 @@ description: >-
   "prep my champion for their internal meeting", "how do I handle the skeptic on
   this deal", "the blocker I need to win over", "give me objection responses",
   "help my champion sell this up", or is trying to influence a buying decision
-  that happens when they are not in the room. It pulls the deal from Fluint first
+  that happens when they are not in the room. It pulls the deal from Loop first
   (falling back to CRM, call transcripts, and email), maps the internal buying
   group, writes a 30-second problem soundbite, builds objection reframes in the
   champion's own words, plans the skeptic, and drafts a forwardable one-pager.
@@ -34,11 +34,11 @@ No champion, no deal. You are enabling a person to carry your message, not enabl
 
 ## Step 1: Lock the deal and qualify the champion
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, pull the `@Deal`, its
-stakeholders, and the recent `@Meeting` history. Fluint already fuses the CRM, calls, and
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, pull the deal, its
+stakeholders, and the recent meeting history. Loop already fuses the CRM, calls, and
 emails, so start there.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = deal, stage, contact roles.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = who said what.
 - Email (Superhuman, Gmail, Outlook) = the working relationship and who is cc'd.

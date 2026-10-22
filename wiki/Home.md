@@ -9,7 +9,7 @@ Built by [Nate Nasralla](https://www.fluint.io), author of *Selling With* and *B
 - **[[Getting Started]]** — install the marketplace, connect your data, run your first skill.
 - **[[The Philosophy]]** — the ideas from *Selling With* and *Brief & Brilliant* the skills encode, and why they produce uncommon output.
 - **[[Skill Reference]]** — all ten skills: when each one fires, the framework it runs, and the deliverable it hands you.
-- **[[Data Sourcing]]** — how the skills pull context (Fluint first, then CRM, calls, email) and what happens when a source is missing.
+- **[[Data Sourcing]]** — how the skills pull context (Loop first, then CRM, calls, email) and what happens when a source is missing.
 - **[[FAQ]]** — plans, privacy, customization, and the common questions.
 
 ## The ten skills at a glance
@@ -30,6 +30,6 @@ Built by [Nate Nasralla](https://www.fluint.io), author of *Selling With* and *B
 2. **A real methodology**, not a bag of prompt tricks.
 3. **An operator's read** on every output: the judgment a summary hides.
 4. **A deliverable every time.** You finish with the asset, ready to send.
-5. **Your real data**, sourced Fluint-first with graceful fallback.
+5. **Your real data**, sourced Loop-first with graceful fallback.
 
 See [[The Philosophy]] for the why behind each of these.

@@ -3,7 +3,7 @@
 ## Requirements
 
 - **A paid Claude plan** (Pro, Max, Team, or Enterprise) to install plugins.
-- **Deal data**, ideally connected. The skills work best with [Fluint](https://www.fluint.io) connected, and fall back to any CRM, call recorder, or email tool you have linked. They still work with nothing connected, leaning on what you paste in.
+- **Deal data**, ideally connected. The skills work best with [Loop](https://www.fluint.io) connected, and fall back to any CRM, call recorder, or email tool you have linked. They still work with nothing connected, leaning on what you paste in.
 
 ## Install the marketplace
 
@@ -23,7 +23,7 @@ Each skill is also a standalone `.skill` file. To test just one, download it and
 
 The skills gather deal context on their own from whatever is connected. To get the richest results:
 
-- **Fluint** — the primary source. Connect the Fluint MCP so the skills can pull your deal, account, and meeting objects directly. This is the fastest path to the real language of a deal.
+- **Loop** — the primary source. Connect the Loop MCP (`https://mcp.fluint.io/mcp`) so the skills can pull your deals, accounts, and meetings directly. This is the fastest path to the real language of a deal.
 - **CRM** — HubSpot, Salesforce, Attio, Pipedrive. The record, stage, contacts, and notes.
 - **Call transcripts** — Salesloft, Gong, Clari, Chorus, Fathom, Fireflies. The buyer's actual words.
 - **Email** — Gmail, Outlook, Superhuman. Stated priorities, timing, who is cc'd.

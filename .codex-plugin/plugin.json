@@ -1,6 +1,6 @@
 {
   "name": "uncommon-sales-skills",
-  "version": "1.0.1+codex.20261007142229",
+  "version": "1.0.2+codex.20261022120000",
   "description": "Ten sales-play skills that run enterprise deals the way top reps sell: in the buyer's own language, sourced from your live deal data, ending in a forwardable asset. Built on the Selling With and Brief & Brilliant frameworks.",
   "author": {
     "name": "Nate Nasralla",
@@ -25,7 +25,7 @@
   "interface": {
     "displayName": "Uncommon Sales Skills",
     "shortDescription": "Run enterprise sales plays in the buyer's own language",
-    "longDescription": "A full toolbox of enterprise sales plays: multithreading, account planning, call prep and follow-up, champion enablement, competitive displacement, deal advancement, QBR prep, managing up, and the one-page business case. Each pulls your live deal context (Fluint first, with CRM, call, and email fallback), writes in the buyer's own language, applies a named framework, and ends in a forwardable deliverable. Start with the router if you are not sure which play you need.",
+    "longDescription": "A full toolbox of enterprise sales plays: multithreading, account planning, call prep and follow-up, champion enablement, competitive displacement, deal advancement, QBR prep, managing up, and the one-page business case. Each pulls your live deal context (Loop first, with CRM, call, and email fallback), writes in the buyer's own language, applies a named framework, and ends in a forwardable deliverable. Start with the router if you are not sure which play you need.",
     "developerName": "Nate Nasralla",
     "category": "Productivity",
     "capabilities": [

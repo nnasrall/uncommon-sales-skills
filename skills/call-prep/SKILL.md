@@ -7,7 +7,7 @@ description: >-
   an agenda for the [account] call", "what should I ask on discovery", "brief me
   before this demo", "I've got a call with [name] tomorrow", or wants a pre-call
   brief, a discovery plan, or a meeting agenda. It pulls the account and attendee
-  context from Fluint first (falling back to CRM, call transcripts, and email),
+  context from Loop first (falling back to CRM, call transcripts, and email),
   builds a POV on what is changing at the account, plans discovery on the
   Problem/Process/Payoff roadmap, and writes the opening frame and the ask.
   Prefer this over freehand prep any time a seller is getting ready for a
@@ -32,12 +32,12 @@ nothing.
 
 ## Step 1: Lock the target and pull context
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, use it first. It
-already fuses your CRM, calls, and emails into `@Deal`, `@Prospect`, `@Meeting`, and
-`@Account` objects, so it is the fastest path to the real language of the account. Pull
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, use it first. It
+already fuses your CRM, calls, and emails into deal, prospect, meeting, and
+account objects, so it is the fastest path to the real language of the account. Pull
 the account, the deal (if one exists), and any prior meetings with these people.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. Pull in
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. Pull in
 parallel from whatever is connected:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the record, stage, contacts, notes.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = their words.

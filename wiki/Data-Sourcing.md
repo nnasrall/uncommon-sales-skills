@@ -6,13 +6,13 @@ Every skill runs on real deal context. Here is how it gathers that context, in w
 
 Each skill follows the same sequence in its first step.
 
-### 1. Fluint first
+### 1. Loop first
 
-If the [Fluint](https://www.fluint.io) MCP is connected, the skill uses it before anything else. Fluint already fuses your CRM, calls, and emails into structured deal, account, and meeting objects, so it is the fastest path to the real language of a deal. The skills reference these objects directly.
+If the [Loop](https://www.fluint.io) MCP (`https://mcp.fluint.io/mcp`) is connected, the skill uses it before anything else. Loop already fuses your CRM, calls, and emails into structured deals, accounts, and meetings, so it is the fastest path to the real language of a deal.
 
 ### 2. Fall back to what you have connected
 
-No Fluint? The skill detects whatever is connected and pulls from all of it in parallel, without assuming a specific vendor:
+No Loop? The skill detects whatever is connected and pulls from all of it in parallel, without assuming a specific vendor:
 
 | Source | Tools it recognizes | What it provides |
 |--------|---------------------|------------------|
@@ -40,4 +40,4 @@ A flagged gap is not a failure. It is the next thing to go get, and often the mo
 
 ## A note on privacy
 
-The skills read the deal context you give them access to and produce output in your chat. They do not send your data anywhere on their own. Connecting a source (Fluint, a CRM, a call tool) is something you do in Claude's own settings, and you control what each one can see.
+The skills read the deal context you give them access to and produce output in your chat. They do not send your data anywhere on their own. Connecting a source (Loop, a CRM, a call tool) is something you do in Claude's own settings, and you control what each one can see.

@@ -4,9 +4,9 @@
 
 Yes, to install a plugin marketplace. Pro, Max, Team, or Enterprise. Individual `.skill` files can be uploaded for testing under Settings → Capabilities → Upload skill.
 
-## Do I need Fluint to use these?
+## Do I need Loop to use these?
 
-No. Fluint is the primary and richest data source, but every skill falls back to your CRM, call recorder, and email, and works even with nothing connected by leaning on what you paste in. Fluint just makes it faster and more complete. Learn more at [fluint.io](https://www.fluint.io).
+No. Loop is the primary and richest data source, but every skill falls back to your CRM, call recorder, and email, and works even with nothing connected by leaning on what you paste in. Loop just makes it faster and more complete. Connect it at `https://mcp.fluint.io/mcp`, and learn more at [fluint.io](https://www.fluint.io).
 
 ## What CRMs and call tools work?
 

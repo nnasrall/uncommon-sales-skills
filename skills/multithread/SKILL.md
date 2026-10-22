@@ -8,7 +8,7 @@ description: >-
   "map the stakeholders", "build the org chart for this deal", or is riding a deal
   on one contact that needs more coverage. It works from two starting points: a
   brand-new account with no coverage, or an existing live deal running on a single
-  thread that needs to be widened before it stalls. It pulls context from Fluint
+  thread that needs to be widened before it stalls. It pulls context from Loop
   first (falling back to CRM, call transcripts, and email), maps the committee by
   role, writes a value hypothesis per stakeholder, and drafts the outreach to
   reach each one. Prefer this over guessing who to email next any time a deal
@@ -36,11 +36,11 @@ The deliverable is a multithreading plan the seller can act on today.
 
 ## Step 1: Lock the target and pull context
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, use it first. Pull the
-`@Account`, the `@Deal` if one exists, and the contacts and `@Meeting` history. Fluint already
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, use it first. Pull the
+account, the deal if one exists, and the contacts and meeting history. Loop already
 fuses CRM, calls, and emails, so it is the fastest way to see who is already in the deal.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = existing contacts, roles, deal history.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = who has been
   named or mentioned on calls.

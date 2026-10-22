@@ -7,7 +7,7 @@ description: >-
   "account strategy for [account]", "find expansion in this account", "where can
   we grow this account", "whitespace at [account]", "what's our plan for this
   account", or is preparing to go after a new logo or grow a current customer. It
-  pulls context from Fluint first (falling back to CRM, call transcripts, and
+  pulls context from Loop first (falling back to CRM, call transcripts, and
   email), builds a POV on what is changing, maps the stakeholders and the
   opportunities by executive priority, and drafts the first outreach. Prefer this
   over a blank-page account plan any time a seller needs a strategy for winning or
@@ -31,12 +31,12 @@ The deliverable is a strategic account plan plus a first outreach message.
 
 ## Step 1: Lock the target and pull context
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, use it first. Pull the
-`@Account`, any `@Deal`, the contacts, and prior `@Meeting` activity. For an existing account,
-pull current footprint: who uses you, what problem you solve, how they get value. Fluint
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, use it first. Pull the
+account, any deal, the contacts, and prior meeting activity. For an existing account,
+pull current footprint: who uses you, what problem you solve, how they get value. Loop
 already fuses CRM, calls, and emails, so start there.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = account record, contacts, current footprint.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = stated priorities.
 - Email (Superhuman, Gmail, Outlook) = the working relationship and recent signals.

@@ -18,7 +18,7 @@ Built by [Nate Nasralla](https://www.fluint.io), author of *Selling With* and *B
 
 - **Every skill builds in a tangible asset.** Not analysis you still have to figure out how act on. A a forwardable follow-up, a champion toolkit, a leadership brief, etc... You finish with the thing, ready to ship.
 
-- **They run on your real data.** The skills pull deal context from Fluint if you use it, or, it falls back to whatever you have connected: your CRM, call recorder, email, etc.. When a fact is missing, they flag it and tell you what to do next.
+- **They run on your real data.** The skills pull deal context from Loop if you use it, or, it falls back to whatever you have connected: your CRM, call recorder, email, etc.. When a fact is missing, they flag it and tell you what to do next.
 
 ---
 
@@ -87,8 +87,8 @@ The skill gathers your deal context, applies the framework, and hands you the de
 
 Every skill follows the same order:
 
-1. **Fluint first.** If the [Fluint](https://www.fluint.io) MCP is connected, the skill uses it. Fluint already fuses your CRM, calls, and emails into deal, account, and meeting objects, so it is the fastest path to the real language of a deal.
-2. **Fall back to what you have.** No Fluint? The skill detects whatever is connected and pulls in parallel: your CRM (HubSpot, Salesforce, Attio, Pipedrive), your call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies), and your email (Gmail, Outlook, Superhuman).
+1. **Loop first.** If the [Loop](https://www.fluint.io) MCP (`https://mcp.fluint.io/mcp`) is connected, the skill uses it. Loop already fuses your CRM, calls, and emails into deal, account, and meeting objects, so it is the fastest path to the real language of a deal.
+2. **Fall back to what you have.** No Loop? The skill detects whatever is connected and pulls in parallel: your CRM (HubSpot, Salesforce, Attio, Pipedrive), your call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies), and your email (Gmail, Outlook, Superhuman).
 3. **Flag the gaps.** When a source is missing or a fact was never captured, the skill marks it and names the single highest-leverage move to close it. It never invents a number.
 
 The skills work without any of these connected too. They will just lean on what you paste in and flag the rest.

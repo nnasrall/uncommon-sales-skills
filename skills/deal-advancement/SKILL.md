@@ -6,7 +6,7 @@ description: >-
   stuck", "this deal stalled", "the deal went quiet", "re-engage a stalled deal",
   "how do I get this moving again", "build a mutual action plan", "MAP", "close
   plan", "work-back timeline", or "write a changed-direction email". It pulls
-  context from Fluint first (falling back to CRM, call transcripts, and email),
+  context from Loop first (falling back to CRM, call transcripts, and email),
   and runs one of two modes: diagnose a stall and generate re-engagement moves, or
   build a backdated mutual action plan from a compelling event. Prefer this over
   generic "just follow up" advice any time a deal has stalled or needs a plan to
@@ -30,11 +30,11 @@ The deliverable is either a diagnosis with re-engagement moves, or a mutual acti
 
 ## Step 1: Lock the deal and pull context
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, use it first. Pull the
-`@Deal`, its stage and history, and the recent `@Meeting` activity. Fluint already fuses CRM,
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, use it first. Pull the
+deal, its stage and history, and the recent meeting activity. Loop already fuses CRM,
 calls, and emails, so it is the fastest way to see where the deal actually is.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = stage, close date, last activity.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = the last real
   exchanges and where momentum dropped.

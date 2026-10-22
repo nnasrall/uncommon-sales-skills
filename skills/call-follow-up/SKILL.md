@@ -6,7 +6,7 @@ description: >-
   call", "write a recap email", "who was on the demo and what do I send each of
   them", "post-call follow-up", "send a follow-up to each stakeholder", "help me
   after this discovery call", or wants to process what just happened on a buyer
-  conversation. It pulls the meeting from Fluint first (falling back to call
+  conversation. It pulls the meeting from Loop first (falling back to call
   transcripts, CRM, and email), maps who cared about what, locks the confirmed
   problem in the buyer's own words, surfaces the skeptics and objections that
   showed up, drafts forwardable per-stakeholder follow-ups, and debriefs where
@@ -32,11 +32,11 @@ who was in the room and for whoever they forward it to next.
 
 ## Step 1: Lock the target and pull the meeting
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, use it first. Pull the
-`@Meeting` (its transcript, attendees, and what Fluint read from it) plus the `@Deal` it
-belongs to. Fluint already fuses the call, CRM, and email context, so start there.
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, use it first. Pull the
+meeting (its transcript, attendees, and what Loop read from it) plus the deal it
+belongs to. Loop already fuses the call, CRM, and email context, so start there.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. Pull in parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. Pull in parallel:
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = the source of truth for who said what.
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the deal, stage, contacts.
 - Email (Superhuman, Gmail, Outlook) = the thread this call sits in.

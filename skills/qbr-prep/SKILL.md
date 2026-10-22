@@ -6,7 +6,7 @@ description: >-
   whenever a seller or account manager says "prep for my QBR", "quarterly business
   review", "build a QBR agenda", "customer review prep", "renewal review", "prep
   my check-in with [account]", or is getting ready to sit down with an existing
-  customer to review the relationship. It pulls context from Fluint first (falling
+  customer to review the relationship. It pulls context from Loop first (falling
   back to CRM, call transcripts, and email), ties the value delivered back to their
   original goals, assesses risk from engagement and outcome signals, finds the
   expansion openings, and drafts an agenda that leads with their success. This is
@@ -33,11 +33,11 @@ walk the customer through.
 
 ## Step 1: Lock the account and pull context
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, use it first. Pull the
-`@Account`, the `@Deal` history, current footprint, and recent `@Meeting` activity. Fluint
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, use it first. Pull the
+account, the deal history, current footprint, and recent meeting activity. Loop
 already fuses CRM, calls, and emails, so start there.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the account, the original goals, usage, history.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = recent sentiment.
 - Email (Superhuman, Gmail, Outlook) = engagement level and any friction signals.

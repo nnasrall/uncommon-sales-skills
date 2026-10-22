@@ -6,7 +6,7 @@ description: >-
   [competitor]", "displace the incumbent", "how do I unseat [vendor]", "they're
   already using [tool]", "competitive deal", "compete against [X]", "win against
   the incumbent", or is in an evaluation where another provider is the default. It
-  pulls context from Fluint first (falling back to CRM, call transcripts, and
+  pulls context from Loop first (falling back to CRM, call transcripts, and
   email), reads the incumbent's strengths and gaps, builds a differentiation
   narrative based on approach and outcome (not a feature war), writes the switching
   story, and gives you trap-setting questions that surface the incumbent's gaps
@@ -33,11 +33,11 @@ The deliverable is a displacement plan you can run in the next conversation.
 
 ## Step 1: Lock the deal and pull context
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, use it first. Pull the
-`@Deal`, the `@Meeting` history, and any notes on the incumbent or competitor. Fluint already
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, use it first. Pull the
+deal, the meeting history, and any notes on the incumbent or competitor. Loop already
 fuses CRM, calls, and emails, so start there.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the deal, the named competitor, notes.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = what the buyer
   has said about their current solution and its frustrations.

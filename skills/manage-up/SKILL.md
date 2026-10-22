@@ -8,7 +8,7 @@ description: >-
   VP", "deal review with leadership", "territory review", "what should I flag to
   my boss", "help me manage up", "I need an intro or budget from leadership",
   "build my quarter plan", or is getting ready to talk about their deals with
-  their own sales management. It pulls the territory and deals from Fluint first
+  their own sales management. It pulls the territory and deals from Loop first
   (falling back to CRM pipeline, call transcripts, and email), grades the forecast
   on buyer behavior, separates real risk from drama, names the big bets, and turns
   each risk into a specific ask of leadership delivered as a drafted asset. This is
@@ -37,12 +37,12 @@ Same discipline though: bottom line up front, numbers not adjectives, nothing to
 
 ## Step 1: Pull the territory
 
-**Fluint first.** If the Fluint MCP (`mcp.fluint.io`) is connected, pull your `@Deal` set
-for the quarter or territory, with stage, history, and recent `@Meeting` activity. Fluint
+**Loop first.** If the Loop MCP (`https://mcp.fluint.io/mcp`) is connected, pull your deals
+for the quarter or territory, with stage, history, and recent meeting activity. Loop
 already fuses CRM, calls, and emails, so it is the fastest way to see how each deal is really
 moving.
 
-**No Fluint? Detect what is live and fall back.** Do not assume a vendor. In parallel:
+**No Loop? Detect what is live and fall back.** Do not assume a vendor. In parallel:
 - CRM (HubSpot, Salesforce, Attio, Pipedrive) = the pipeline, stages, amounts, close dates.
 - Call transcripts (Salesloft, Gong, Clari, Chorus, Fathom, Fireflies; or via Clay / Deepline) = whether the
   buyer's behavior matches the stage the deal is sitting in.
